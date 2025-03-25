@@ -1,0 +1,5 @@
+pymzqc==1.0.0rc2
+pandas
+requests
+streamlit
+altair

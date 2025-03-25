@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# macOS metadata
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit artifacts
+.streamlit/
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS/Editor specific
+.idea/
+*.swp
+
+# Streamlit secrets
+secrets.toml
